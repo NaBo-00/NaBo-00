@@ -2,6 +2,7 @@
 
 This is under construction...
 
+Further projects will be added soon.
 <!--
 **Na-Bo00/Na-Bo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
