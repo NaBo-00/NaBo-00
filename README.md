@@ -1,19 +1,30 @@
-### Hi there 👋 
+Under Construction!
 
-This is under construction...
 
-Further projects will be added soon.
-<!--
-**Na-Bo00/Na-Bo00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1>Hello World!</h1>
+<br/>
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello User, I'm a Tech Enthusiast and M.Sc. Computer Science Student!
+
+<a href="https://github.com/NaBo-00" target="_blank">GitHub <img align="left" alt="GitHub" width="22px" src="" /></a>
+<a href="https://www.linkedin.com/in/nareg-niko-boyagian/" target="_blank">Linkedin <img align="left" alt="LinkedIn" width="22px" src="" /></a>
+
+<br />
+<br />
+<br />
+
+### Languages and Tools:
+
+
+<br />
+<br />
+### Softwares:
+
+
+
+<br />
+<br />
+
+---
