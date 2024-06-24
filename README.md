@@ -1,7 +1,7 @@
-<h1 align="center">Hello World 👋, I'm NaBo-00</h1>
-<h3 align="center">A Tech Enthusiast and M. Sc. Computer Science Student</h3>
+<p align="center"><img alt="header" src="./header.png"></p>
 
-
+<h1 align="center">Hello World 👋,</h1>
+<h3 align="center">I'm a Tech Enthusiast and M. Sc. Computer Science Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabo-00&label=Profile%20views&color=0e75b6&style=flat" alt="nabo-00" /> </p>
 
@@ -34,6 +34,12 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nabo-00&show_icons=true&locale=en&layout=compact" alt="nabo-00" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nabo-00&theme=dark&show_icons=true&locale=en&layout=compact" alt="nabo-00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nabo-00&show_icons=true&locale=en" alt="nabo-00" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nabo-00&theme=dark&show_icons=true&locale=en" alt="nabo-00" /></p>
+
+----------------------
+<div align="center">
+  <p>Made by NaBo-00 | Copyright (c) NaBo-00</p>
+  <p><img alt="NaBo-00 logo" src="./NaBo-00-logo.png" width="100" height="60"></p>
+</div>
