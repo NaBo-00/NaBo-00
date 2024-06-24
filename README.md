@@ -3,7 +3,7 @@
 <h1 align="center">Hello World 👋,</h1>
 <h3 align="center">I'm a Tech Enthusiast and M. Sc. Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nabo-00&label=Profile%20views&color=0e75b6&style=flat" alt="nabo-00" /> </p>
+<p align="center"><img  src="https://visitcount.itsvg.in/api?id=nabo-00&icon=3&color=0" alt="nabo-00" /></p>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
@@ -36,7 +36,9 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nabo-00&theme=dark&show_icons=true&locale=en&layout=compact" alt="nabo-00" /></p>
 
-<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=nabo-00&theme=dark&show_icons=true&locale=en" alt="nabo-00" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=nabo-00&theme=dark&show_icons=true&locale=en" alt="nabo-00" /></p>
+
+<!-- <p align="center"><img  src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="nabo-00" /></p> -->
 
 ----------------------
 <div align="center">
