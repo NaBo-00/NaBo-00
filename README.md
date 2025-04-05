@@ -1,15 +1,13 @@
 <p align="center"><img alt="header" src="./header.png"></p>
 
 <h1 align="center">Hello World 👋,</h1>
-<h3 align="center">I'm a Tech Enthusiast and M. Sc. Computer Science Student</h3>
-
-<p align="center"><img  src="https://visitcount.itsvg.in/api?id=nabo-00&icon=3&color=0" alt="nabo-00" /></p>
+<h3 align="center">Tech Enthusiast and Strategist, Problem Solver, Engineering Mindset, Innovation Driver</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working as a **Software Engineering, Data Science, and ML/AI Working Student**
+- 🔭 I’m currently working as a **System and Software Engineer**
 
 - 👯 I’m looking to collaborate on [a SaaS Web Application](https://penpro.online/)
 
